@@ -1,3 +1,3 @@
 # proj1
 My first Project on Github
-Author - Ajay kumar
+Author - Ajay kumar (cse)
